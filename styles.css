@@ -40,3 +40,6 @@ body {
     color: #fff;
     padding: 10px;
     }
+    .linkbox {  width: 100%;  overflow: hidden;}
+    .bra {  float: left;  width: 50%;  background-color: none;}
+    .ket {  margin-left: 50%;  background-color: none;} 
