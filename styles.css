@@ -34,6 +34,7 @@ body {
     .container {  width: 100%;  overflow: hidden;}
     .left {  float: left;  width: 50%;  background-color: white;}
     .right {  margin-left: 50%;  background-color: white;} 
+    pre{font-size: 16px; font-family: "宋体"; color:black;}
 
     footer {
     background-color: #3300cc;
@@ -42,4 +43,4 @@ body {
     }
     .linkbox {  width: 100%;  overflow: hidden;}
     .bra {  float: left;  width: 50%;  background-color: none;}
-    .ket {  margin-left: 50%;  background-color: none;} 
+    .ket {  margin-left: 50%;  background-color: none;}    
