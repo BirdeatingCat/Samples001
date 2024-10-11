@@ -35,6 +35,7 @@ ul#aside_link li
     padding-left: 20px;
     display: block;
     width: 160px;
+    height: 30px
 }
 ul#aside_link li a{
     margin: 0px;
