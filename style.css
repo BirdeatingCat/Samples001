@@ -35,7 +35,7 @@ ul#aside_link li
     padding-left: 20px;
     display: block;
     width: 160px;
-    height: 30px
+    height: 30px;
 }
 ul#aside_link li a{
     margin: 0px;
@@ -153,6 +153,9 @@ footer {
 }
 #left-sidebar-f{
     width: 1000px;
+    @media screen and (max-width: 980px){
+        width: 1200px;
+    }
     padding: 20px;
     margin-left: 30px;
 }
